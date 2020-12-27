@@ -1,0 +1,2 @@
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\x64\Debug\Kursovaya.exe
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\x64\Debug\Kursovaya.pdb

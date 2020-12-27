@@ -1,0 +1,62 @@
+﻿  function.cpp
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(24,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(48,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(142,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(158,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(187,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(227,4): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(232,4): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(237,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(239,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(240,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(241,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(265,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(327,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(328,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(330,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(331,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(332,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(356,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(418,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(419,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(421,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(422,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(423,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(447,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(481,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(498,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(499,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(501,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(502,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(526,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(581,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(584,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(586,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(587,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(611,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(632,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(656,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(693,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(694,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(718,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(754,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(755,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(779,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(815,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(816,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(840,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(876,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(877,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(901,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(937,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(938,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(962,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(998,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(999,51): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(1023,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(1117,52): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(1141,6): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(1159,6): warning C4101: a: неиспользованная локальная переменная
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(1160,6): warning C4101: b: неиспользованная локальная переменная
+C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\function.cpp(121): warning C4715: check_string: значение возвращается не при всех путях выполнения
+  Kursovaya.vcxproj -> C:\Users\ZeFFI\Desktop\программирование\Аисд\Kursovaya\x64\Debug\Kursovaya.exe
